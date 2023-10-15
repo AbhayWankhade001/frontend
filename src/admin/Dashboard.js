@@ -173,7 +173,7 @@ export default function Dashboard() {
       <nav role="navigation">
         <ul className="main">
           <li className="dashboard">
-            <a href="#">Dashboard</a>
+            <a>Dashboard</a>
           </li>
           <li className="users">
             <Link to="/Manageuser">Manage Users</Link>
